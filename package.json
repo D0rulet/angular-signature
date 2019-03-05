@@ -1,5 +1,5 @@
 {
-  "name": "angular-signature",
+  "name": "angular-signature2",
   "version": "1.0.3",
   "description": "HTML5 canvas based smooth signature drawing as angularJS directive",
   "main": "src/signature.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/legalthings/angular-signature.git"
+    "url": "git+https://github.com/D0rulet/angular-signature"
   },
   "keywords": [
     "angular",
@@ -17,10 +17,5 @@
   "dependencies": {
     "signature_pad": "^1.5.0"
   },
-  "author": "LegalThings <info@legalthings.net>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/legalthings/angular-signature/issues"
-  },
-  "homepage": "https://github.com/legalthings/angular-signature#readme"
+  "author": "Doru"
 }
