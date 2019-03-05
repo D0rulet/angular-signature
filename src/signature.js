@@ -88,6 +88,7 @@ angular.module("signature").directive("signaturePad", [
         canvas.height = height;
 
         scope.signaturePad = new SignaturePad(canvas, {
+          dotSize: scope.minLineWidth,
           minWidth: scope.minLineWidth
         });
 
